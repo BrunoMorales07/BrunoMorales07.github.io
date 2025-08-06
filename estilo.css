@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(185, 34, 24, 0.527);
+}
+#nombre {
+    text-align: center;
+}
+#title {
+    text-align: center;
+}
+div.info {
+    padding: 10px;
+    border: 1px;
+    border-color: black;
+    background-color: rgba(168, 99, 7, 0.404);
+}
+.titulo {
+    color: white;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+.texto {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#gata {
+    width: 50%;
+    height: 10%;
+}
